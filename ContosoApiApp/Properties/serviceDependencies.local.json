@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "CustomConnector": {
+      "connectionInfo": "Custom Connector: SankarSarma_Connector (Environment: AI Roadshow (default))",
+      "connectorName": "SankarSarma_Connector",
+      "environmentUrl": "https://airoadshowdefault.crm.dynamics.com/",
+      "environmentId": "17f63ebd-e417-4644-9a5d-3cc4e8d4fe4a",
+      "type": "powerplatform.local"
+    }
+  }
+}
